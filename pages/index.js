@@ -13,7 +13,7 @@ const Home = () => {
         <title>
           OYO : India's Best Online Hotel Booking Site For Sanitized Stay.
         </title>
-        <link rel="icon" href="/icon.png"></link>
+       
       </Head>
       <Header1 />
       <Header2 />
